@@ -102,5 +102,9 @@ print(flatten(l))
 # [1, 2, 3, 3]
 
 
-# 
+# word frequency
+from collections import defaultdict
+word_count_dict = defaultdict(int)
+for w in text.split(" "):
+    word_count_dict[w]+=1
 ```
