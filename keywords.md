@@ -32,6 +32,7 @@ type(x) -> bool
 
 ---
 `import` - Import modules, loading modules
+
 `from`- import spectific module
 
 ---
