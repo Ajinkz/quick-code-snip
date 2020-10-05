@@ -19,4 +19,56 @@ await               finally             nonlocal            yield
 break               for                 not               
 
 ```
+`True` & `False`
+`and`
+`or`
+`not`
+
+---
+`None`
+
+---
+`import`
+`from`
+
+---
+`global`
+`nonlocal`
+
+---
+`if`, `elif`, `else`
+
+---
+`def`
+`pass`
+`continue`
+
+---
+`return`
+`yield`
+
+---
+`as`
+`in`
+`is`
+
+---
+`try`
+`except`
+`raise`
+`finally`
+
+---
+`for`
+`while`
+`break`
+
+---
+`lambda`
+`await`
+`async`
+`assert`
+
+
+
 
