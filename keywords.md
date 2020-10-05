@@ -20,23 +20,26 @@ break               for                 not
 
 ```
 `True` & `False`
-`and`
-`or`
-`not`
+```
+x=True
+type(x) -> bool
+```
+
+`and`,`or`, `not` - Boolean operators
 
 ---
-`None`
+`None` - Null value or null object
 
 ---
-`import`
-`from`
+`import` - Import modules, loading modules
+`from`- import spectific module
 
 ---
 `global`
 `nonlocal`
 
 ---
-`if`, `elif`, `else`
+`if`, `elif`, `else`- Conditional operators 
 
 ---
 `def`
