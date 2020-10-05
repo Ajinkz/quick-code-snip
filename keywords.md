@@ -4,8 +4,8 @@
 import keyword
 print(len(keyword.kwlist))
 # 35
-help("keywords")
 
+help("keywords")
 Here is a list of the Python keywords.  Enter any keyword to get more help.
 
 False               class               from                or
