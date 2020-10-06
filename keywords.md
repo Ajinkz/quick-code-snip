@@ -43,8 +43,8 @@ type(x) -> bool
 `if`, `elif`, `else`- Conditional operators 
 
 ---
-`def`
-`pass`
+`def` - use to define function
+`pass`- It is null operation, a placeholder that signifies nothing to execute
 `continue`
 
 ---
