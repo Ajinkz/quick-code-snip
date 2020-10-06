@@ -20,8 +20,10 @@ break               for                 not
 
 ```
 `True` & `False`
+
 ```
 x=True
+
 type(x) -> bool
 ```
 
@@ -44,7 +46,9 @@ type(x) -> bool
 
 ---
 `def` - use to define function
+
 `pass`- It is null operation, a placeholder that signifies nothing to execute
+
 `continue`
 
 ---
@@ -64,13 +68,18 @@ type(x) -> bool
 
 ---
 `for` - for loop
+
 `while` - while loop
+
 `break` - to break the loop
 
 ---
 `lambda` - anonymous function
+
 `await`
+
 `async`
+
 `assert`
 
 
