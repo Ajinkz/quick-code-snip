@@ -63,9 +63,9 @@ type(x) -> bool
 `finally`
 
 ---
-`for`
-`while`
-`break`
+`for` - for loop
+`while` - while loop
+`break` - to break the loop
 
 ---
 `lambda` - anonymous function
