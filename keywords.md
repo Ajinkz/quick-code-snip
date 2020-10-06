@@ -68,7 +68,7 @@ type(x) -> bool
 `break`
 
 ---
-`lambda`
+`lambda` - anonymous function
 `await`
 `async`
 `assert`
