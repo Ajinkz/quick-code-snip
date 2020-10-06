@@ -27,7 +27,7 @@ x=True
 type(x) -> bool
 ```
 
-`and`,`or`, `not` - Boolean operators
+`and`, `or`, `not` - Boolean operators
 
 ---
 `None` - Null value or null object
@@ -38,8 +38,9 @@ type(x) -> bool
 `from`- import spectific module
 
 ---
-`global`
-`nonlocal`
+`global` -  
+
+`nonlocal` - 
 
 ---
 `if`, `elif`, `else`- Conditional operators 
@@ -52,13 +53,15 @@ type(x) -> bool
 `continue`
 
 ---
-`return`
-`yield`
+`return` - 
+
+`yield` - 
 
 ---
-`as`
-`in`
-`is`
+`with` - with statement is use to wrap the code block
+`as` - It is used to assign a namespace
+`in` or `not in` - Used for testing membership
+`is` - The operators "<", ">", "==", ">=", "<=", and "!=" compare the values of two objects. `Is` compare the objects and hence it is faster.
 
 ---
 `try`
